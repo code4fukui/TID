@@ -1,6 +1,8 @@
-# TID by TAI64N
+# TID
 
-## usage
+A unique identifier generator based on TAI64N.
+
+## Usage
 
 ```js
 import { TID } from "https://code4fukui.github.io/TID/TID.js";
@@ -11,6 +13,10 @@ const path = TID.getPath(tid, "txt");
 console.log(path);
 ```
 
-## reference
+## Reference
 
 - [TAI64N](https://github.com/code4fukui/TAI64N-es)
+
+## License
+
+MIT License
