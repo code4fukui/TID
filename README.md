@@ -1,5 +1,7 @@
 # TID
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A unique identifier generator based on TAI64N.
 
 ## Usage
