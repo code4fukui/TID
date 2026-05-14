@@ -1,10 +1,8 @@
 # TID
 
-> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+TAI64NベースのユニークIDジェネレーター。
 
-A unique identifier generator based on TAI64N.
-
-## Usage
+## 使い方
 
 ```js
 import { TID } from "https://code4fukui.github.io/TID/TID.js";
@@ -15,10 +13,10 @@ const path = TID.getPath(tid, "txt");
 console.log(path);
 ```
 
-## Reference
+## 参考
 
 - [TAI64N](https://github.com/code4fukui/TAI64N-es)
 
-## License
+## ライセンス
 
 MIT License
